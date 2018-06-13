@@ -1,0 +1,7 @@
+.*
+!.gitignore
+
+lib/
+include/
+bin/
+pip-selfcheck.json
