@@ -1,1 +1,1 @@
-A django tutorial project from [docs.djangoproject.com](docs.djangoproject.com)
+A django tutorial project from [docs.djangoproject.com](https://docs.djangoproject.com)
