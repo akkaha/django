@@ -5,3 +5,7 @@ lib/
 include/
 bin/
 pip-selfcheck.json
+
+
+db.sqlite3
+__pycache__
